@@ -1,0 +1,26 @@
+{
+  "name": "job",
+  "private": true,
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smutnyleszek/job.git"
+  },
+  "author": "Leszek Pietrzak",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/smutnyleszek/job/issues",
+    "email": "smutnyleszek@gmail.com"
+  },
+  "homepage": "https://job.smutnyleszek.com",
+  "scripts": {
+    "build": "npm-run-all",
+    "serve": "npm-run-all build jekyll:serve",
+    "dist:rebuild": "rm -rf dist && mkdir dist",
+    "jekyll:build": "jekyll build",
+    "jekyll:serve": "jekyll serve --watch --baseurl ''"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.0.1"
+  }
+}
