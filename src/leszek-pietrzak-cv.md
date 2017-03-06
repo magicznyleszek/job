@@ -6,7 +6,7 @@
 - __Nationality__: Polish
 - __Phone__: +48692569704
 - __E-mail__: [smutnyleszek@gmail.com](mailto:smutnyleszek@gmail.com)
--  __Website__: [http://github.com/smutnyleszek](smutnyleszek@github)
+- __Website__: [my github account](https://github.com/smutnyleszek)
 
 The three values closest to my heart are: order, meaning and simplicity.
 
