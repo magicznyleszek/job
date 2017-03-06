@@ -1,0 +1,25 @@
+/*******************************************************************************
+a simple reset
+*******************************************************************************/
+
+*,
+*::before,
+*::after {
+    vertical-align: baseline;
+    box-sizing: inherit;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+}
+
+/* reset HTML5BP links stuff */
+abbr[title]::after,
+a[href]::after {
+    content: "";
+}

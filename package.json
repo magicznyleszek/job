@@ -14,16 +14,32 @@
   },
   "homepage": "https://job.smutnyleszek.com",
   "scripts": {
-    "build": "npm-run-all pdf:build css:copy",
+    "build": "npm-run-all styles:build pdf:build",
     "serve": "npm-run-all build jekyll:serve",
     "dist:rebuild": "rm -rf dist && mkdir dist",
-    "css:copy": "cp src/pdf.css dist/pdf.css",
-    "pdf:build": "markdown-pdf src/leszek-pietrzak-cv.md -o dist/leszek-pietrzak-cv.pdf -f A4 -r portrait -b 0mm -s src/pdf.css -m '{\"breaks\": false, \"linkify\": false, \"typographer\": true}'",
+    "styles:build": "postcss --config .postcss.config.json",
+    "pdf:build": "markdown-pdf src/leszek-pietrzak-cv.md -o dist/leszek-pietrzak-cv.pdf -f A4 -r portrait -b 0mm -s dist/monolith.css -m '{\"breaks\": false, \"linkify\": false, \"typographer\": true}'",
     "jekyll:build": "jekyll build",
     "jekyll:serve": "jekyll serve --watch --baseurl ''"
   },
+  "watch": {
+    "styles:build": {
+      "patterns": [
+        "src/styles"
+      ],
+      "extensions": "css",
+      "quiet": false
+    }
+  },
   "devDependencies": {
     "markdown-pdf": "^7.0.0",
-    "npm-run-all": "^4.0.1"
+    "npm-run-all": "^4.0.1",
+    "autoprefixer": "^6.7.2",
+    "cssnano": "^3.10.0",
+    "npm-watch": "^0.1.8",
+    "postcss": "^5.2.12",
+    "postcss-cli": "^2.6.0",
+    "postcss-cssnext": "^2.9.0",
+    "postcss-import": "^9.1.0"
   }
 }
