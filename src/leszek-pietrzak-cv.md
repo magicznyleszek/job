@@ -5,7 +5,7 @@ __Birthday__: January 21st, 1987
 __Current location__: Warsaw, Poland
 __Nationality__: Polish
 __Phone__: +48692569704
-__E-mail__: smutnyleszek@gmail.com
+__E-mail__: [smutnyleszek@gmail.com](mailto:smutnyleszek@gmail.com)
  __Website__: [http://github.com/smutnyleszek](smutnyleszek@github)
 
 The three values closest to my heart are: order, meaning and simplicity.
@@ -28,7 +28,7 @@ Some technologies I worked with: HTML (Twig), CSS (Compass, Sass, cssnext, BEM, 
 
 ### November 2014 - Present
 
-__Frontend Engineer__ @ GOG.com - Warsaw, Poland - www.gog.com/galaxy
+__Frontend Engineer__ @ GOG.com - Warsaw, Poland - [gog.com/galaxy](http://www.gog.com/galaxy)
 
 My main responsibility was creating a frontend of GOG Galaxy desktop application. I also develop some webapps and take part in recruiting new developers and introducing them to the project. During work here I took part in launching GOG Galaxy and creating The Witcher 3 game.
 
@@ -36,7 +36,7 @@ Technologies: ES6, Angular, Lodash, TDD (Karma, Jasmine, PhantomJS), Twig, Sass,
 
 ### March 2007 - Present
 
-__Illustrator, Designer & Web Developer__ @ Self-employment - Worldwide - www.leszekpietrzak.com
+__Illustrator, Designer & Web Developer__ @ Self-employment - Worldwide - [leszekpietrzak.com](http://leszekpietrzak.com)
 
 I'm always open for small design and web jobs to give me opportunity to do something crazy and try something new. I also work on some open-source projects and tools on my spare time. Some cool web projects are:
 
@@ -47,7 +47,7 @@ I'm always open for small design and web jobs to give me opportunity to do somet
 
 ### June 2013 - November 2014
 
-__Web Designer & Frontend Developer__ @ Clos Brothers - Warsaw, Poland - www.closbrothers.pl
+__Web Designer & Frontend Developer__ @ Clos Brothers - Warsaw, Poland - [closbrothers.pl](http://closbrothers.pl)
 
 I was working in a small team delivering websites and webapps for big clients (Toyota) and smaller, educational ones, too (Museum of the History of Polish Jews, Silesian Risings Museum).
 
@@ -55,7 +55,7 @@ Technologies: Angular, Phaser, jQuery, TweenMax, Compass, Jekyll, Twig, Symfony2
 
 ### October 2012 - July 2013
 
-__Graphic Designer & Web Developer__ @ Trewebs - Warsaw, Poland - www.trewebs.com
+__Graphic Designer & Web Developer__ @ Trewebs - Warsaw, Poland - ~~trewebs.com~~
 
 In this semi-startup, I was hired to design the UI and identity for diet app. As time went on, there were less design tasks and a need for developer arisen - as I was already familiar with HTML and CSS, I started to learn and work on some small web development projects.
 
