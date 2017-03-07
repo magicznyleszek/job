@@ -1,12 +1,13 @@
-# Leszek* Pietrzak
+# Leszek¹ Pietrzak
 
-- __*Spelling__: try "lesheck" ;-)
 - __Birthday__: January 21st, 1987
-- __Current location__: Warsaw, Poland
+- __Current location__: Warsaw, Poland (52°14′N 21°1′E)
 - __Nationality__: Polish
-- __Phone__: +48692569704
+- __Phone__: +48 692 569 704
 - __E-mail__: [smutnyleszek@gmail.com](mailto:smutnyleszek@gmail.com)
-- __Website__: [my github account](https://github.com/smutnyleszek)
+- __Website__: [github.com/smutnyleszek](https://github.com/smutnyleszek)
+- __Favourite color__: black
+- ¹if in doubt, try "lesheck"
 
 The three values closest to my heart are: order, meaning and simplicity.
 
@@ -16,13 +17,11 @@ As I fear for the future of humanity, I don't want to throw more senseless evil 
 
 ## Skills
 
-I have strong frontend development skills with some backend experience. I can do identity design, UI design and illustration - I mainly use Photoshop, Illustrator and InDesign. I am no stranger to Scrum, Kanban, recruitment, introducing new people into projects and copywriting.
+I have strong frontend development skills with some backend experience. I can do identity design, UI design and illustration - I mainly use Photoshop, Illustrator and InDesign. I am no stranger to Scrum, Kanban, recruitment, introducing new people into projects and copywriting. I’m familiar with all the OSs, but my favourite setup is MacOS with Atom.
 
-I’m familiar with all the OSs, but my favourite setup is MacOS with Atom.
+Technologies I would love to work with: __ES6__, __Angular__, __React__, __NPM__, __cssnext__ and __Jekyll__. I would also like to have __TDD__, __code reviews__, __pair programming__ and good planning with estimations.
 
-Technologies I would love to work with: JS (vanilla or ES6 Babel), Angular, React, NPM, cssnext and Jekyll.
-
-Some technologies I worked with: HTML (Twig), CSS (Compass, Sass, cssnext, BEM, MADCSS), JavaScript (CoffeeScript, ES6 Babel, Angular, React, Alt, Backbone, Phaser, Lodash, jQuery, TweenMax), TDD (Karma, Jasmine, PhantomJS), Grunt, NPM, Git, CEF, Jekyll, MySQL, PHP (Symfony2), Jira, Asana.
+Some technologies I worked with: HTML (Twig), CSS (Compass, Sass, cssnext, BEM, MADCSS), JavaScript (CoffeeScript, ES6 [Babel], Angular, React, Alt, Backbone, Phaser, Lodash, jQuery, TweenMax), TDD (Karma, Jasmine, PhantomJS), Grunt, NPM, Git, CEF, Jekyll, MySQL, PHP (Symfony2), Jira, Asana.
 
 ## Employment
 
@@ -65,17 +64,17 @@ Technologies: jQuery, Compass, Drupal, WordPress, PHP, MySQL
 
 ### September 2010 - September 2013
 
-Graphic Design @ Wyższa Szkoła Nauk Humanistycznych i Dziennikarstwa - Poznań, Poland
+__Graphic Design__ @ Wyższa Szkoła Nauk Humanistycznych i Dziennikarstwa - Poznań, Poland
 
-Licentiate degree (BA) with highest score (5)
+Licentiate degree (~BA) with highest score (5)
 
 ### September 2007 - September 2010
 
-Cultural Studies @ Wyższa Szkoła Nauk Humanistycznych i Dziennikarstwa - Poznań, Poland
+__Cultural Studies__ @ Wyższa Szkoła Nauk Humanistycznych i Dziennikarstwa - Poznań, Poland
 
 ### September 2006 - September 2007
 
-Computer Science @ Adam Mickiewicz University - Poznań, Poland
+__Computer Science__ @ Adam Mickiewicz University - Poznań, Poland
 
 ## Language skills
 

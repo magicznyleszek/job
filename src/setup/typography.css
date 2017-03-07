@@ -17,6 +17,11 @@ base typographic rules
     margin-bottom: var(--s-leading);
 }
 
+h1,
+h2 {
+    border-bottom: 0.125rem solid var(--c-charcoal);
+}
+
 h1 { font-size: 200%; }
 
 h2 { font-size: 150%; }

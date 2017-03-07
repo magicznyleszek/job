@@ -39,5 +39,5 @@ html {
 @media print {
     html { font-size: var(--root-fontSize-print); }
 
-    body { padding: calc(var(--s-leading) * 2); }
+    body { padding: 0; }
 }

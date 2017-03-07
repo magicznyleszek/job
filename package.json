@@ -18,7 +18,7 @@
     "serve": "npm-run-all build jekyll:serve",
     "dist:rebuild": "rm -rf dist && mkdir dist",
     "styles:build": "postcss --config .postcss.config.json",
-    "pdf:build": "markdown-pdf src/leszek-pietrzak-cv.md -o dist/leszek-pietrzak-cv.pdf -f A4 -r portrait -b 0mm -s dist/monolith.css -m '{\"breaks\": false, \"linkify\": false, \"typographer\": true}'",
+    "pdf:build": "markdown-pdf src/leszek-pietrzak-cv.md -o dist/leszek-pietrzak-cv.pdf -f A4 -r portrait -b 1.5cm -s dist/monolith.css -m '{\"breaks\": false, \"linkify\": false, \"typographer\": true}'",
     "jekyll:build": "jekyll build",
     "jekyll:serve": "jekyll serve --watch --baseurl ''"
   },
