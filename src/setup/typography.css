@@ -70,7 +70,7 @@ strong { font-weight: 700; }
 em { font-style: italic; }
 
 blockquote {
-    border-left: 1pt solid var(--c-silver);
+    border-left: 0.125rem solid var(--c-silver);
     padding-left: var(--s-leading);
     font-style: italic;
 }
