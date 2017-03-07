@@ -25,9 +25,16 @@
   "watch": {
     "styles:build": {
       "patterns": [
-        "src/styles"
+        "src"
       ],
       "extensions": "css",
+      "quiet": false
+    },
+    "pdf:build": {
+      "patterns": [
+        "src"
+      ],
+      "extensions": "md",
       "quiet": false
     }
   },

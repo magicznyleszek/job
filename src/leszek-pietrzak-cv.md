@@ -9,11 +9,9 @@
 - __Favourite color__: black
 - ¹if in doubt, try "lesheck"
 
-The three values closest to my heart are: order, meaning and simplicity.
-
 I am a creator, I always loved building something new: be it through writing, drawing or coding. As for frontend development, I love that my work can be experienced live in the browser and that I can publish anything in just a few minutes.
 
-As I fear for the future of humanity, I don't want to throw more senseless evil out there - I would love to take part in a meaningful, nature- and future-friendly projects.
+The three values closest to my heart are: order, meaning and simplicity. I fear for the future of humanity, so I don't want to throw more senseless evil out there - I would love to take part in a meaningful, nature- and future-friendly projects. I try to maintain good work/life balance, so I avoid toxic environments.
 
 ## Skills
 
