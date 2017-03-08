@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+<p><a href="/dist/questions.pdf">pdf</a></p>
+
+{% capture my_include %}{% include questions.md %}{% endcapture %}
+{{ my_include | markdownify }}

@@ -1,6 +1,7 @@
-## My questions
+# Questions for companies
 
-About company:
+## About company
+
 1. Is your company helping with relocation? How does it work?
 2. What's the team structure?
 3. How big is the company?
@@ -10,7 +11,8 @@ About company:
 7. How do you maintain a healthy work-life balance?
 8. How many female programmers do you have?
 
-About work:
+## About work
+
 1. What is your tech stack?
 3. Do you develop in a modular way (npm for JS, microservices)?
 4. Are you open for switching to "better" technologies than currently used?
