@@ -128,3 +128,19 @@ I can also produce movies (i.e. use Adobe After Effects) if necessary. I can eve
 ## 10. Spaces or tabs, why?
 
 I don't remember why, but I started with using 4 spaces and it just stuck. Some time ago I did some research on "why my decision is The Right Decision", and read somewhere that TAB character can cause a file reading problem in some rare environments. But I guess what I don't like in tabs is that they are not the same width as everything else (in monospaces font of course). Recently, after I started keeping my files at 80-chars, I am thinking about trying 2 spaces -- but this would require me to do a global switch, as I do love being consistent. I don't even consider 3 spaces, as odd numbers are yuck.
+
+## Recruitment questions
+
+Work-related:
+1. What is important for you in every day work?
+3. What do you expect from your future lead?
+4. What do you expect from new work place?
+5. What is your current team structure?
+6. With what kind of people do you like to work with?
+7. How do you handle if someone disagree with you in your team?
+8. What do you like in developer job?
+9. What do you dislike in developer job?
+10. How do you learn new stuff?
+11. What have you learnt recently?
+12. What is your biggest fail?
+13. Why frontend?
