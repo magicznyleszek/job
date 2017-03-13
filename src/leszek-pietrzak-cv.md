@@ -3,7 +3,7 @@
 - __Birthday__: January 21st, 1987
 - __Current location__: Warsaw, Poland (52°14′N 21°1′E)
 - __Nationality__: Polish
-- __Phone__: +48 692 569 704
+- __Phone__: [skype:smutnyleszek](skype:smutnyleszek?chat)
 - __E-mail__: [smutnyleszek@gmail.com](mailto:smutnyleszek@gmail.com)
 - __Website__: [github.com/smutnyleszek](https://github.com/smutnyleszek)
 - __Favourite color__: black

@@ -9,7 +9,7 @@
 5. Is your company multinational?
 6. How do you help your employees to learn and grow?
 7. How do you maintain a healthy work-life balance?
-8. How many female programmers do you have?
+8. Is your company doing something for ecology?
 
 ### About work
 

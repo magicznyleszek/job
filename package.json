@@ -41,12 +41,12 @@
   },
   "devDependencies": {
     "markdown-pdf": "^7.0.0",
-    "npm-run-all": "^4.0.1",
-    "autoprefixer": "^6.7.2",
+    "npm-run-all": "^4.0.2",
+    "autoprefixer": "^6.7.7",
     "cssnano": "^3.10.0",
     "npm-watch": "^0.1.8",
-    "postcss": "^5.2.12",
-    "postcss-cli": "^2.6.0",
+    "postcss": "^5.2.16",
+    "postcss-cli": "^3.0.0-beta",
     "postcss-cssnext": "^2.9.0",
     "postcss-import": "^9.1.0"
   }
