@@ -97,13 +97,11 @@ From the Kingston station, turn left and walk down Cromwell road, follow the roa
 
 Address:
 
-```
-Clarendon House
-147 London Road
-Kingston-Upon-Thames
-Surrey
-KT2 6NH
-```
+> Clarendon House <br>
+> 147 London Road <br>
+> Kingston-Upon-Thames <br>
+> Surrey <br>
+> KT2 6NH
 
 Ask for: Julian Jelfs (Head of Frontend Team)
 
