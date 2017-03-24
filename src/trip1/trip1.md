@@ -63,10 +63,12 @@ Walk 3.4 km
 
 Address:
 
-> 4th Floor,
-> 80 Great Eastern Street,
-> London
-> EC2A 3JL
+```
+4th Floor,
+80 Great Eastern Street,
+London
+EC2A 3JL
+```
 
 Interview will start at 11:00 (UK) and last about 2h
 
@@ -95,11 +97,13 @@ From the Kingston station, turn left and walk down Cromwell road, follow the roa
 
 Address:
 
-> Clarendon House
-> 147 London Road
-> Kingston-Upon-Thames
-> Surrey
-> KT2 6NH
+```
+Clarendon House
+147 London Road
+Kingston-Upon-Thames
+Surrey
+KT2 6NH
+```
 
 Ask for: Julian Jelfs (Head of Frontend Team)
 
