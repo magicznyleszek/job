@@ -63,12 +63,10 @@ Walk 3.4 km
 
 Address:
 
-```
-4th Floor,
-80 Great Eastern Street,
-London
-EC2A 3JL
-```
+> 4th Floor, <br>
+> 80 Great Eastern Street, <br>
+> London <br>
+> EC2A 3JL
 
 Interview will start at 11:00 (UK) and last about 2h
 
