@@ -17,9 +17,9 @@ The three values closest to my heart are: order, meaning and simplicity. I fear 
 
 I have strong frontend development skills with some backend experience. I can do identity design, UI design and illustration - I mainly use Photoshop, Illustrator and InDesign. I am no stranger to Scrum, Kanban, recruitment, introducing new people into projects and copywriting. I’m familiar with all the OSs, but my favourite setup is MacOS with Atom.
 
-Technologies I would love to work with: __ES6__, __Angular__, __React__, __NPM__, __cssnext__ and __Jekyll__. I would also like to have __TDD__, __code reviews__, __pair programming__ and good planning with estimations.
+Technologies I would love to work with: __TypeScript__ or __ES6__, __Angular__, __React__, __NPM__, __cssnext__ and __Jekyll__. I would also like to have __TDD__, __code reviews__, __pair programming__ and good planning with estimations.
 
-Some technologies I worked with: HTML (Twig), CSS (Compass, Sass, cssnext, BEM, MADCSS), JavaScript (CoffeeScript, ES6 [Babel], Angular, React, Alt, Backbone, Phaser, Lodash, jQuery, TweenMax), TDD (Karma, Jasmine, PhantomJS), Grunt, NPM, Git, CEF, Jekyll, MySQL, PHP (Symfony2), Jira, Asana.
+Some technologies I worked with: HTML (Twig), CSS (Compass, Sass, cssnext, BEM, MADCSS), JavaScript (TypeScript, CoffeeScript, ES6 [Babel], Angular, React, Alt, Backbone, Phaser, Lodash, jQuery, TweenMax), TDD (Karma, Jasmine, PhantomJS, Sinopia), Grunt, NPM, Git, CEF, Jekyll, MySQL, PHP (Symfony2), Jira, Asana.
 
 ## Employment
 
@@ -29,7 +29,7 @@ __Frontend Engineer__ @ GOG.com - Warsaw, Poland - [gog.com/galaxy](http://www.g
 
 My main responsibility was creating a frontend of GOG Galaxy desktop application. I also develop some webapps and take part in recruiting new developers and introducing them to the project. During work here I took part in launching GOG Galaxy and creating The Witcher 3 game.
 
-Technologies: ES6, Angular, Lodash, TDD (Karma, Jasmine, PhantomJS), Twig, Sass, BEM, MADCSS, CoffeeScript, Grunt, NPM, Git, CEF, Jira, Asana
+Technologies: TypeScript, ES6, Angular, Lodash, TDD (Karma, Jasmine, PhantomJS), Twig, Sass, BEM, MADCSS, CoffeeScript, Webpack, Grunt, NPM, Git, CEF, Jira, Asana
 
 ### March 2007 - Present
 
