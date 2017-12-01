@@ -60,6 +60,10 @@ Broke a production website, because of badly configured GIT and me not knowing D
 
 Life opportunities, personnal happiness.
 
+### What are you looking for?
+
+I would like to work in a company that loves teamwork, planning and have it's own product(s). I value tolerance and sense of humor in people the most. As I fear for the future of humanity, I don't want to throw more senseless evil out there. I would love to take part in a meaningful, nature- and future-friendly projects.
+
 ### What would be the ideal project?
 
 It could be something that would help our planet not die quickly or something that would make deep-space colonization possible.
