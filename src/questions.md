@@ -2,14 +2,11 @@
 
 ### About company
 
-1. Is your company helping with relocation? How does it work?
-2. What's the team structure?
-3. How big is the company?
-4. Do you make your own products or provide services for others?
-5. How do you help your employees to learn and grow?
-6. How do you maintain a healthy work-life balance?
-7. Is your company multinational?
-8. What is your stance on Brexit in regards to your employees?
+1. What's the team structure?
+2. How big is the company?
+3. Do you make your own products or provide services for others?
+4. How do you help your employees to learn and grow?
+5. How do you maintain a healthy work-life balance?
 
 ### About work
 

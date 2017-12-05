@@ -58,7 +58,7 @@ Broke a production website, because of badly configured GIT and me not knowing D
 
 ### What motivate you to change your life?
 
-Life opportunities, personnal happiness.
+Life opportunities, personal happiness.
 
 ### What are you looking for?
 
@@ -70,7 +70,7 @@ It could be something that would help our planet not die quickly or something th
 
 There would be a few different teams - mine with about 10 developers, one designer, one team leader and two testers. There needs to be a global architect and styles pattern library. We have code reviews, pair programming and lot's of unit testing (95% coverage as minimum).
 
-As for frontend JS+CSS+HTML modules. Tech stack: everyhtingJavaScript (ES6) - probably React with Alt, pregenerated HTML templates - Jekyll, or Node-based Twig and raw CSS  - latest features via cssnext and MADCSS.
+As for frontend JS+CSS+HTML modules. Tech stack: JavaScript (TypeScript or ES6) - probably React with Alt or custom-built solution, pregenerated HTML templates - Jekyll, or Node-based Twig and raw CSS - latest features via cssnext and MADCSS.
 
 ### What is important for you in every day work?
 
@@ -135,13 +135,15 @@ I think 7 is my number. I don't have all the String.prototype methods memorized,
 
 ### Are there any other technologies you are skilled in you would like to brag about? Please don't be modest.
 
-As my background is in Graphic Design and I still do it professionaly, I can say that I am pretty skilled in using Photoshop, Illustrator and InDesign for producing DTP stuff.
+I can draw illustrations, portraits, abstract art.
+
+As my background is in Graphic Design and I still do it professionally, I can say that I am pretty skilled in using Photoshop, Illustrator and InDesign for producing DTP stuff.
 
 I can also draw complex architectural schematics in AutoCAD -- and I would like to point out how awesomely precise it is with vector illustration in comparison to Adobe products.
 
 I did wrote some games using [Phaser](https://phaser.io/) framework and I recall it was pretty interesting.
 
-I also used [TweenMax](https://greensock.com/tweenmax) for some complex animet-as-you-scroll websites.
+I also used [TweenMax](https://greensock.com/tweenmax) for some complex animate-as-you-scroll websites.
 
 The first programming language that I've learned was PHP (quickly followed by MySQL), and I did write some while working with Drupal and WordPress. I wouldn't say I can do a backend dev tasks, but at least I can understand and tweak existing code.
 
