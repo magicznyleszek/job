@@ -16,7 +16,7 @@ Some answers for some soft questions.
 
 ### Why developer? What do you like in developer job?
 
-I am a creator, I always loved creating new things: be it through writing, drawing or coding. And as frontend/webdevelopment goes - there is this great feature of stuff being run automagically in the browser. You can create and share in just a few minutes.
+I am a creator, I always loved creating new things: be it through writing, drawing, designing or coding. And as frontend/webdevelopment goes - there is this great feature of stuff being run automagically in the browser. You can create and share in just a few minutes.
 
 ### What do you dislike in developer job?
 
@@ -39,7 +39,7 @@ As for frontend/webdevelopment, I love that my code can be experienced in the br
 
 ### What are yout strengths?
 
-1. I know both sides: designer's and developer's perspective
+1. I'm a unicorn. I know both sides: designer's and developer's perspective
 2. Cool-headed -- I don't give into stress easily, or believe in conflicts
 4. Helpful -- I like being a part of a team and helping people with their tasks or with introduction to new projects
 

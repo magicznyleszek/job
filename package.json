@@ -15,11 +15,12 @@
   "homepage": "https://job.smutnyleszek.com",
   "scripts": {
     "start": "npm run build",
-    "build": "npm-run-all dist:rebuild styles:build pdf:cv pdf:questions",
+    "build": "npm-run-all dist:rebuild styles:build pdf:cv pdf:letter pdf:questions",
     "serve": "npm-run-all build jekyll:serve",
     "dist:rebuild": "rm -rf dist && mkdir dist",
     "styles:build": "postcss src/main.css -o dist/monolith.css",
     "pdf:cv": "markdown-pdf src/leszek-pietrzak-cv.md -o dist/leszek-pietrzak-cv.pdf -f A4 -r portrait -b 1.5cm -s dist/monolith.css -m '{\"breaks\": false, \"linkify\": false, \"typographer\": true}'",
+    "pdf:letter": "markdown-pdf src/letter.md -o dist/leszek-pietrzak-letter.pdf -f A4 -r portrait -b 1.5cm -s dist/monolith.css -m '{\"breaks\": false, \"linkify\": false, \"typographer\": true}'",
     "pdf:questions": "markdown-pdf src/questions.md -o dist/questions.pdf -f A4 -r portrait -b 1.5cm -s dist/monolith.css -m '{\"breaks\": false, \"linkify\": false, \"typographer\": true}'",
     "jekyll:build": "jekyll build",
     "jekyll:serve": "jekyll serve --watch --baseurl ''"
