@@ -1,7 +1,7 @@
 # Leszek¹ Pietrzak
 
 - __Birthday__: January 21st, 1987
-- __Current location__: Warsaw, Poland (52°14′N 21°1′E)
+- __Current location__: CET Timezone
 - __Nationality__: Polish
 - __Phone__: [skype:smutnyleszek](skype:smutnyleszek?chat)
 - __E-mail__: [smutnyleszek@gmail.com](mailto:smutnyleszek@gmail.com)
@@ -83,4 +83,4 @@ __Computer Science__ @ Adam Mickiewicz University - Poznań, Poland
 
 ## Interests
 
-Evolution of life, existential philosophy, traditional tattoo, ambient music, fantastic literature, American B-movies, Haiku, contemporary art and European comics.
+Evolution of life, ethics and existential philosophy, traditional tattoo, ambient music, fantastic literature, American B-movies, Haiku, contemporary art and European comics.
