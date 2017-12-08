@@ -7,6 +7,7 @@
 3. Do you make your own products or provide services for others?
 4. How do you help your employees to learn and grow?
 5. How do you maintain a healthy work-life balance?
+6. What are some legal requirements for the position for a Polish citizen?
 
 ### About work
 
