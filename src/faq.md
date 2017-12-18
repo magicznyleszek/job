@@ -66,11 +66,11 @@ I would like to work in a company that loves teamwork, planning and have it's ow
 
 ### What would be the ideal project?
 
-It could be something that would help our planet not die quickly or something that would make deep-space colonization possible.
+Project: it could be something that would help our planet not die quickly or something that would make deep-space colonization possible.
 
-There would be a few different teams - mine with about 10 developers, one designer, one team leader and two testers. There needs to be a global architect and styles pattern library. We have code reviews, pair programming and lot's of unit testing (95% coverage as minimum).
+There would be a few different teams - mine with about 6 developers, 2 designers, 2 QAs and Scrum/Jira magician. There needs to be a global architect and styles pattern library. We have code reviews, pair programming and lot's of unit testing (75% coverage as minimum). We also plan a lot to know stuff beforehand.
 
-As for frontend JS+CSS+HTML modules. Tech stack: JavaScript (TypeScript or ES6) - probably React with Alt or custom-built solution, pregenerated HTML templates - Jekyll, or Node-based Twig and raw CSS - latest features via cssnext and MADCSS.
+As for frontend: small components. Tech stack: JavaScript (TypeScript) - probably React/Angular with Alt or custom-built solution, pregenerated HTML templates - Jekyll, or Node-based Twig and raw CSS - latest features via cssnext. BEM or MADCSS.
 
 ### What is important for you in every day work?
 
