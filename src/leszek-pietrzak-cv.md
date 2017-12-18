@@ -38,7 +38,7 @@ __Illustrator, Designer & Web Developer__ @ Self-employment - Worldwide - [lesze
 I'm always open for small design and web jobs to give me opportunity to do something crazy and try something new. I also work on some open-source projects and tools on my spare time. Some cool web projects are:
 
 - [Hues](https://github.com/smutnyleszek/hues) - color converter tool (React, Alt, ES6, RequireJS, Karma, cssnext, MADCSS)
-- [Akabusk](https://github.com/smutnyleszek/akabusk) - simple OMDb movie finder (Angular, ES6, Karma, cssnext, MADCSS)
+- [Fimder](https://github.com/smutnyleszek/fimder) - simple OMDb movie finder (Angular, ES6, Karma, cssnext, MADCSS)
 - [Mad Skeleton](https://github.com/smutnyleszek/mad-skeleton) - CSS boilerplate (Jekyll, Node, cssnext, MADCSS)
 - [HashTabber](https://github.com/smutnyleszek/hashtabber) - hashchange-driven tabbed content switcher (ES5, Compass)
 
@@ -83,4 +83,4 @@ __Computer Science__ @ Adam Mickiewicz University - Poznań, Poland
 
 ## Interests
 
-Evolution of life, ethics and existential philosophy, traditional tattoo, ambient music, fantastic literature, American B-movies, Haiku, contemporary art and European comics.
+Evolution of life, existential philosophy, animal rights, traditional tattoo, ambient music, fantastic literature, American B-movies, Haiku, contemporary art and European comics.
