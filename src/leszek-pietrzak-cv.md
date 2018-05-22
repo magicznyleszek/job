@@ -4,8 +4,8 @@
 - __Current location__: CET Timezone
 - __Nationality__: Polish
 - __Phone__: [skype:smutnyleszek](skype:smutnyleszek?chat)
-- __E-mail__: [smutnyleszek@gmail.com](mailto:smutnyleszek@gmail.com)
-- __Website__: [github.com/smutnyleszek](https://github.com/smutnyleszek)
+- __E-mail__: [leszek@magicznyleszek.xyz](mailto:leszek@magicznyleszek.xyz)
+- __Website__: [github.com/magicznyleszek](https://github.com/magicznyleszek)
 - __Favourite color__: black
 - ¹if in doubt, try "lesheck"
 
@@ -37,10 +37,10 @@ __Illustrator, Designer & Web Developer__ @ Self-employment - Worldwide - [lesze
 
 I'm always open for small design and web jobs to give me opportunity to do something crazy and try something new. I also work on some open-source projects and tools on my spare time. Some cool web projects are:
 
-- [Hues](https://github.com/smutnyleszek/hues) - color converter tool (React, Alt, ES6, RequireJS, Karma, cssnext, MADCSS)
-- [Fimder](https://github.com/smutnyleszek/fimder) - simple OMDb movie finder (Angular, ES6, Karma, cssnext, MADCSS)
-- [Mad Skeleton](https://github.com/smutnyleszek/mad-skeleton) - CSS boilerplate (Jekyll, Node, cssnext, MADCSS)
-- [HashTabber](https://github.com/smutnyleszek/hashtabber) - hashchange-driven tabbed content switcher (ES5, Compass)
+- [Hues](https://github.com/magicznyleszek/hues) - color converter tool (React, Alt, ES6, RequireJS, Karma, cssnext, MADCSS)
+- [Fimder](https://github.com/magicznyleszek/fimder) - simple OMDb movie finder (Angular, ES6, Karma, cssnext, MADCSS)
+- [Mad Skeleton](https://github.com/magicznyleszek/mad-skeleton) - CSS boilerplate (Jekyll, Node, cssnext, MADCSS)
+- [HashTabber](https://github.com/magicznyleszek/hashtabber) - hashchange-driven tabbed content switcher (ES5, Compass)
 
 ### June 2013 - November 2014
 

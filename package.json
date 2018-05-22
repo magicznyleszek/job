@@ -4,15 +4,15 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/smutnyleszek/job.git"
+    "url": "https://github.com/magicznyleszek/job.git"
   },
   "author": "Leszek Pietrzak",
   "license": "CC-BY-4.0",
   "bugs": {
-    "url": "https://github.com/smutnyleszek/job/issues",
-    "email": "smutnyleszek@gmail.com"
+    "url": "https://github.com/magicznyleszek/job/issues",
+    "email": "leszek@magicznyleszek.xyz"
   },
-  "homepage": "https://job.smutnyleszek.com",
+  "homepage": "https://job.magicznyleszek.xyz",
   "scripts": {
     "start": "npm run build",
     "build": "npm-run-all dist:rebuild styles:build pdf:cv pdf:letter pdf:questions",

@@ -5,8 +5,8 @@ keywords: ""
 author: "Leszek Pietrzak"
 
 # address settings
-baseurl: "http://job.smutnyleszek.com"
-rootSiteUrl: "http://smutnyleszek.com"
+baseurl: "http://job.magicznyleszek.xyz"
+rootSiteUrl: "http://magicznyleszek.xyz"
 
 # site configuration
 safe: true

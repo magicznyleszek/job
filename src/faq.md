@@ -30,7 +30,7 @@ Three things I value the most: order, meaning and simplicity. I think I work as 
 
 I am a creator, I always loved creating something new: be it through writing, drawing, coding or arranging stuff beautifuly in a fridge. Technology for me is about bringing ideas into existence and turning an impossibly long task into a one button action! I also feel like writing code is like writing Haiku -- it has a purpose, positively limiting set of rules, and at the same time boundless possibilities.
 
-As for frontend/webdevelopment, I love that my code can be experienced in the browser just a seconds after I saved the file, and how you can tweak it live. You can create and share in just a few minutes, and it can be anything you want. [Anything](http://qwerty.smutnyleszek.com/b/).
+As for frontend/webdevelopment, I love that my code can be experienced in the browser just a seconds after I saved the file, and how you can tweak it live. You can create and share in just a few minutes, and it can be anything you want. [Anything](http://qwerty.magicznyleszek.xyz/b/).
 
 ### What are yout weaknesses?
 
@@ -104,7 +104,7 @@ I think that could be [Electron](http://electron.atom.io/). It makes it easy for
 
 ### What was the last piece of Technology you played with outside of Work?
 
-As a learning exercise I've developed [Hues](https://github.com/smutnyleszek/hues), a React + Alt webapp written in ES6 (Babel) that does color conversion. It was pretty interested experience. Doing templates in JS files was a refreshing idea, and I love having a whole state in single place. I also liked some of ES6 features: consts, fat arrows and Maps are my favs.
+As a learning exercise I've developed [Hues](https://github.com/magicznyleszek/hues), a React + Alt webapp written in ES6 (Babel) that does color conversion. It was pretty interested experience. Doing templates in JS files was a refreshing idea, and I love having a whole state in single place. I also liked some of ES6 features: consts, fat arrows and Maps are my favs.
 
 ### How do you learn new stuff?
 
@@ -124,7 +124,7 @@ The ones that came to my mind:
 
 My relevant online presence:
 
-- [github.com/smutnyleszek](https://github.com/smutnyleszek) -- I have multiple projects that I'm proud of there
+- [github.com/magicznyleszek](https://github.com/magicznyleszek) -- I have multiple projects that I'm proud of there
 - [leszekpietrzak.com](http://leszekpietrzak.com/) -- it is mainly design/illustration, but I feel that my designer skills are very useful when doing frontend
 
 I do have [SO account](http://stackoverflow.com/users/2311247/leszek) -- I have answered only two questions, but it says that I've impacted ~259 people, so I think that is something ;-)
