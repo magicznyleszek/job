@@ -23,24 +23,32 @@ Some technologies I worked with: HTML (Twig), CSS (Compass, Sass, cssnext, BEM, 
 
 ## Employment
 
-### November 2014 - Present
+### March 2018 - now
+
+__Frontend Developer__ @ KoBoToolbox - Earth - [kobotoolbox.org](http://www.kobotoolbox.org/)
+
+As part of a small team building new functionalities for a powerful open source data collection tools.
+
+Some technologies here: ES6 [Babel], React, Reflux, Sass, Webpack.
+
+### March 2007 - now
+
+__Illustrator, Designer & Web Developer__ @ Self-employment - Earth - [magicnzyleszek.xyz](http://magicnzyleszek.xyz)
+
+I'm always open for small design and web jobs to give me opportunity to do something crazy and try something new. I also work on some open-source projects and tools on my spare time. Some cool web projects are:
+
+- [Magicxer](https://github.com/magicznyleszek/magicxer) - combines words from list into a list of clever mixes (Parcel, Vue.js, Jest, TypeScript, Prettier)
+- [Hues](https://github.com/magicznyleszek/hues) - color converter tool (React, Alt, ES6, RequireJS, Karma, cssnext, MADCSS)
+- [Mad Skeleton](https://github.com/magicznyleszek/mad-skeleton) - CSS boilerplate (Jekyll, Node, cssnext, MADCSS)
+- [Humansjs](https://github.com/magicznyleszek/humansjs) - zero-player human existence simulator (Parcel, Jest, TypeScript)
+
+### November 2014 - May 2018
 
 __Frontend Engineer__ @ GOG.com - Warsaw, Poland - [gog.com/galaxy](http://www.gog.com/galaxy)
 
 My main responsibility was creating a frontend of GOG Galaxy desktop application. I also develop some webapps and take part in recruiting new developers and introducing them to the project. During work here I took part in launching GOG Galaxy and creating The Witcher 3 game.
 
 Technologies: TypeScript, ES6, Angular, Lodash, TDD (Karma, Jasmine, PhantomJS), Twig, Sass, BEM, MADCSS, CoffeeScript, Webpack, Grunt, NPM, Git, CEF, Jira, Asana
-
-### March 2007 - Present
-
-__Illustrator, Designer & Web Developer__ @ Self-employment - Worldwide - [leszekpietrzak.com](http://leszekpietrzak.com)
-
-I'm always open for small design and web jobs to give me opportunity to do something crazy and try something new. I also work on some open-source projects and tools on my spare time. Some cool web projects are:
-
-- [Hues](https://github.com/magicznyleszek/hues) - color converter tool (React, Alt, ES6, RequireJS, Karma, cssnext, MADCSS)
-- [Fimder](https://github.com/magicznyleszek/fimder) - simple OMDb movie finder (Angular, ES6, Karma, cssnext, MADCSS)
-- [Mad Skeleton](https://github.com/magicznyleszek/mad-skeleton) - CSS boilerplate (Jekyll, Node, cssnext, MADCSS)
-- [HashTabber](https://github.com/magicznyleszek/hashtabber) - hashchange-driven tabbed content switcher (ES5, Compass)
 
 ### June 2013 - November 2014
 
@@ -79,8 +87,9 @@ __Computer Science__ @ Adam Mickiewicz University - Poznań, Poland
 - __Polish__ - native
 - __English__ - professional
 - __German__ - basics
+- __Spanish__ - basics
 - __Toki Pona__ - basics
 
 ## Interests
 
-Evolution of life, existential philosophy, animal rights, traditional tattoo, ambient music, fantastic literature, American B-movies, Haiku, contemporary art and European comics.
+Antispeciesism with additional interest in feminism, the meaninglessness of life, unlistenable music, doodling and drawing, evolution of life, dinosaurs and the future of humankind, taboos and things NSFW.
