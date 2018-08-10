@@ -15,25 +15,25 @@ The three values closest to my heart are: order, meaning and simplicity. I fear 
 
 ## Skills
 
-I have strong frontend development skills with some backend experience. I can do identity design, UI design and illustration - I mainly use Photoshop, Illustrator and InDesign. I am no stranger to Scrum, Kanban, recruitment, introducing new people into projects and copywriting. I’m familiar with all the OSs, but my favourite setup is MacOS with Atom.
+I have strong frontend development skills with some backend experience. I can do identity design, UI design and illustration - I mainly use Illustrator, Sketch, Photoshop and InDesign. I am no stranger to Scrum, Kanban, recruitment, introducing new people into projects and copywriting. I’m familiar with all the OSs, but my favourite setup is MacOS with Atom.
 
-Technologies I would love to work with: __TypeScript__ or __ES6__, __Angular__, __React__, __NPM__, __cssnext__ and __Jekyll__. I would also like to have __TDD__, __code reviews__, __pair programming__ and good planning with estimations.
+Technologies I would love to work with: __TypeScript__ or __ES6__, __Vue__, __React__, __Angular__, __NPM__, __cssnext__ and __RESTful APIs__. I would also like to have __TDD__, __code reviews__, __pair programming__, __code linting__ and good planning with estimations.
 
-Some technologies I worked with: HTML (Twig), CSS (Compass, Sass, cssnext, BEM, MADCSS), JavaScript (TypeScript, CoffeeScript, ES6 [Babel], Angular, React, Alt, Backbone, Phaser, Lodash, jQuery, TweenMax), TDD (Karma, Jasmine, PhantomJS, Sinopia), Grunt, NPM, Git, CEF, Jekyll, MySQL, PHP (Symfony2), Jira, Asana.
+Some technologies I worked with: HTML (Twig), CSS (Compass, Sass, cssnext, BEM, MADCSS), JavaScript (TypeScript, CoffeeScript, ES6 [Babel], Angular, React, Vue, Alt, Backbone, Phaser, Lodash, jQuery, TweenMax), TDD (Karma, Jasmine, PhantomJS, Cypress, Selenium), Grunt, NPM, Git, CEF, Jekyll, MySQL, PHP (Symfony2), Jira, Asana.
 
 ## Employment
 
 ### March 2018 - now
 
-__Frontend Developer__ @ KoBoToolbox - Earth - [kobotoolbox.org](http://www.kobotoolbox.org/)
+__Frontend Developer__ @ KoBoToolbox - remote - [kobotoolbox.org](http://www.kobotoolbox.org/)
 
 As part of a small team building new functionalities for a powerful open source data collection tools.
 
-Some technologies here: ES6 [Babel], React, Reflux, Sass, Webpack.
+Some technologies here: ES6 [Babel], React, Reflux, Cypress, Sass, Webpack.
 
 ### March 2007 - now
 
-__Illustrator, Designer & Web Developer__ @ Self-employment - Earth - [magicnzyleszek.xyz](http://magicnzyleszek.xyz)
+__Illustrator, Designer & Web Developer__ @ freelancing - remote - [magicznyleszek.xyz](http://magicznyleszek.xyz)
 
 I'm always open for small design and web jobs to give me opportunity to do something crazy and try something new. I also work on some open-source projects and tools on my spare time. Some cool web projects are:
 
