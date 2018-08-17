@@ -3,23 +3,23 @@ base typographic rules
 *******************************************************************************/
 
 :root {
-    --s-code-safeSpace: 0.125rem;
+  --s-code-safeSpace: 0.125rem;
 }
 
 :--headers {
-    margin: 0;
-    padding: 0;
-    line-height: 1;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
 }
 
 :--textblocks:not(:last-child) {
-    margin-top: 0;
-    margin-bottom: var(--s-leading);
+  margin-top: 0;
+  margin-bottom: var(--s-leading);
 }
 
 h1,
 h2 {
-    border-bottom: 0.125rem solid var(--c-charcoal);
+  border-bottom: 0.125rem solid var(--c-charcoal);
 }
 
 h1 { font-size: 200%; }
@@ -29,19 +29,19 @@ h2 { font-size: 150%; }
 h3 { font-size: 125%; }
 
 h4 {
-    font-size: inherit;
-    font-weight: 700;
+  font-size: inherit;
+  font-weight: 700;
 }
 
 p,
 pre {
-    margin: 0;
+  margin: 0;
 }
 
 ul,
 ol {
-    margin-left: var(--s-leading);
-    padding: 0;
+  margin-left: var(--s-leading);
+  padding: 0;
 }
 
 ul { list-style-type: disc; }
@@ -51,14 +51,14 @@ ol { list-style-type: decimal; }
 small,
 sub,
 sup {
-    font-size: 75%;
+  font-size: 75%;
 }
 
 sub,
 sup {
-    vertical-align: baseline;
-    position: relative;
-    line-height: 0;
+  vertical-align: baseline;
+  position: relative;
+  line-height: 0;
 }
 
 sup { top: -0.5em; }
@@ -70,13 +70,13 @@ strong { font-weight: 700; }
 em { font-style: italic; }
 
 blockquote {
-    border-left: 0.125rem solid var(--c-silver);
-    padding-left: var(--s-leading);
-    font-style: italic;
+  border-left: 0.125rem solid var(--c-silver);
+  padding-left: var(--s-leading);
+  font-style: italic;
 }
 
 blockquote cite::before {
-    content: "\2014";
-    display: inline-block;
-    margin-right: 0.25rem;
+  content: "\2014";
+  display: inline-block;
+  margin-right: 0.25rem;
 }
